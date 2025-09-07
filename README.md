@@ -1,6 +1,9 @@
 🚀 Synapse-Agent-Fabric
+
 🤖 Your Production-Ready Personal Agentic AI Chatbot
-Synapse-Agent-Fabric is an advanced, production-grade GenAI application built on a cutting-edge agentic architecture. It empowers users to create custom AI agents, seamlessly switch between multiple LLM providers (like Groq and OpenAI), and even enable real-time web search to fetch live information.
+
+Synapse-Agent-Fabric is an advanced, production-grade GenAI application built on a cutting-edge agentic architecture.
+It empowers users to create custom AI agents, seamlessly switch between multiple LLM providers (like Groq and OpenAI), and even enable real-time web search to fetch live information.
 
 This modular and scalable system is designed for performance, flexibility, and ease of use, making it perfect for developers, researchers, and AI enthusiasts.
 
@@ -8,10 +11,13 @@ This modular and scalable system is designed for performance, flexibility, and e
 The project is built on a clean three-tier architecture, ensuring a clear separation of concerns and making the system easy to maintain and scale.
 
 1️⃣ Core AI Agent (LangGraph) – The intelligent engine that powers your AI chatbot, capable of reasoning and using tools.
+
 2️⃣ Backend Server (FastAPI) – A high-performance API layer that serves as the bridge between the user interface and the core AI agent.
+
 3️⃣ User Interface (Streamlit) – A sleek, interactive web application designed for an effortless and intuitive user experience.
 
 ✨ Key Features
+
 ✅ Custom Agent Behavior – Easily configure your agent with a system prompt to define its persona and expertise (e.g., “You are a world-class Financial Analyst”).
 
 ✅ Multi-LLM Support – Natively supports switching between Groq's lightning-fast models for speed and OpenAI’s powerful models for capability.
@@ -109,8 +115,10 @@ streamlit run frontend.py
 
 Your chatbot UI will automatically open in a new browser tab.
 
+
 🎯 Why Synapse-Agent-Fabric?
 ⚡ Lightning-Fast Inference: Leverage Groq's LPU Inference Engine for near-instant responses.
+
 
 🌍 Live Web Search: Break free from outdated knowledge with real-time web search capabilities.
 
